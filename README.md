@@ -40,7 +40,7 @@ app/schemas → Pydantic models for request/response validation
 
 app/main.py → FastAPI app entry point
 
-###🛠 Tech Stack
+### 🛠 Tech Stack
 Python 3.10+
 
 FastAPI
